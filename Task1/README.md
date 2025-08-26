@@ -14,7 +14,7 @@ The task involves:
 ---
 
 ## 📂 Dataset
-The dataset is the **Bank Marketing Dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing).  
+The dataset is the **Bank Marketing Dataset** from the [UCI Machine Learning Repository].  
 
 - **Rows**: 45,211  
 - **Features**: 16 (client info, campaign details, etc.)  
